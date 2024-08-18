@@ -1,0 +1,21 @@
+.text-footer {
+  font-size: 6px;
+  color: red;
+}
+
+.logos-container {
+  height: 250px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.logos {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 100px;
+  height: 100%;
+}
