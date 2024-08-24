@@ -1,0 +1,29 @@
+.phrase-container {
+  display: flex;
+  align-items: center;
+  height: 200px;
+  width: 100%;
+}
+
+.phrase-text {
+  color: black;
+  font-size: 80px;
+}
+
+.phrase-image {
+  height: 80%;
+  width: auto;
+  object-fit: contain;
+}
+
+.test {
+  border: solid black 1px;
+}
+
+.line-container {
+  display: flex;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  gap: 350px;
+  position: relative;
+}
