@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="page">
       <div className="animatedtext-container">
-        <Animatedtext text="MOTION" classname="title" />
+        <Animatedtext text="MOTION houlala" classname="title" />
 
         <Animatedtext text="DESIGN" classname="title" />
       </div>

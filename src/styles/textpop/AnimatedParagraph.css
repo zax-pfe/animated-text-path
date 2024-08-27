@@ -1,0 +1,9 @@
+.word-container {
+  display: flex;
+  gap: 0.5vw;
+  flex-wrap: wrap;
+}
+
+.test {
+  border: solid white 1px;
+}
