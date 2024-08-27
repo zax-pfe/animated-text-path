@@ -1,0 +1,15 @@
+.word-container {
+  display: flex;
+  width: 60vw;
+  flex-wrap: wrap;
+  gap: 0.5vw;
+}
+
+.word {
+  position: relative;
+}
+
+.shadow {
+  position: absolute;
+  opacity: 0.2;
+}

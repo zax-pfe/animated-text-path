@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Animatedtext from "@/components/animatedText";
+import Animatedtext from "@/components/letterbottotop/animatedText";
 import "../styles/homepage.css";
 
 export default function Home() {

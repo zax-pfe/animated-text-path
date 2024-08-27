@@ -1,5 +1,5 @@
 "use client";
-import "../styles/animatedtext.css";
+import "../../styles/animatedtext.css";
 
 interface AnimatedTextProps {
   text: string;

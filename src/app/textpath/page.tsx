@@ -1,6 +1,6 @@
 "use client";
 
-import Footer from "@/components/Footer";
+import Footer from "@/components/textpath/Footer";
 import { useEffect } from "react";
 import "../../styles/textpath.css";
 import Lenis from "@studio-freight/lenis";

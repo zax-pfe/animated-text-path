@@ -1,0 +1,11 @@
+.page-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+  font-size: 2vw;
+  text-transform: uppercase;
+  font-weight: 500;
+}

@@ -3,7 +3,7 @@ import lego1 from "../../images/lego1.png";
 import lego2 from "../../images/lego2.png";
 import lego3 from "../../images/lego3.png";
 import lego4 from "../../images/lego4.png";
-import Line from "@/components/Phrase";
+import Line from "@/components/parallaxtext/Phrase";
 import Lenis from "@studio-freight/lenis";
 
 import { useEffect, useRef } from "react";
